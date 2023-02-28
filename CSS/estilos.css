@@ -139,7 +139,7 @@ html {
 
 #sobremi .contenedor-foto img{
     padding: 20px;
-    width: 100%;
+    width: 110%;
     border-bottom: 20px;
     background-color: #f3f3f3 ;
 }
@@ -198,3 +198,6 @@ html {
     background-color: #ff5050;
     color: #fff ;
 }
+
+/*SERVICIOS*/
+
