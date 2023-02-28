@@ -36,7 +36,7 @@ html {
 }
 #inicio .contenido header .contenido-header h1 {
     text-align: center;
-    color: #ff5050
+    color: #ff5050;
 }
 #inicio .contenido header .contenido-header nav ul {
     list-style: none;
