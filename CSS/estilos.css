@@ -121,6 +121,9 @@ html {
 #inicio .contenido header .contenido-header .redes a:hover {
     color: #ff5050;
 }
+#inicio .contenido header .contenido-header .seleccionado{
+    color: #ff5050;
+}
 
 /*SEGUNDA PARTE: SECCION SOBRE MI*/
 
@@ -297,6 +300,24 @@ html {
     width: 10px;
     background-color: #fff;
 }
+
+.contenedor-skills .skills p {
+    font-size: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.contenedor-skills h3 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px ;
+}
+
+
 
 .contenedor-skills .skills .barra {
     background-color: #919191;
